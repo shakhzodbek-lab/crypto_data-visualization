@@ -56,6 +56,9 @@ data = crypto_data.history(period="1y")
 # Visualize the data as a candlestick chart with volume
 mplfinance.plot(data, type="candle", volume=True)
 ```
+![Figure_2](https://github.com/shakhzodbek-lab/crypto_data-visualization/assets/63743504/36ad6a82-1367-4ea3-8e17-bdd105acf7e4)
+
+
 
 ## License
 
